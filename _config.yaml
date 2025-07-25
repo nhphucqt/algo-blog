@@ -4,3 +4,4 @@ defaults:
     values:
       permalink: /:categories/:title/
       layout: "post"
+  - baseurl: /algo-blog
